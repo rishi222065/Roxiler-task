@@ -1,0 +1,24 @@
+
+.Stats {
+    
+   width:50%;
+    margin: 0 auto; 
+    text-align: center; 
+    background-color:yellow;
+    border-radius:30px;
+  }
+  
+  .Stats h2 {
+    margin-bottom: 20px;
+  }
+  
+  .Stats_calc {
+    display: flex;
+    flex-direction: column;
+    align-items: center; 
+  }
+  
+  .Stats_calc div {
+    margin-bottom: 10px;
+  }
+  

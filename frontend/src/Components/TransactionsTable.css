@@ -1,0 +1,34 @@
+/* TransactionsTable.css */
+
+.TransactionsTable {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+   
+    align-items:center;
+  }
+  
+  .TransactionsTable_heading {
+    background-color: #f2f2f2;
+    
+  }
+  
+  .TransactionsTable_heading th {
+    padding: 12px;
+    text-align: left;
+    border:2px solid black
+    
+  }
+  
+  .TransactionsTable_body tr:nth-child(even) {
+    background-color: #f2f2f2;
+    border:2px solid black
+  }
+  
+
+  
+  .TransactionsTable_body td {
+    padding: 12px;
+    border:2px solid black;
+  }
+  

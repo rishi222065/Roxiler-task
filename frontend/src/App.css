@@ -1,0 +1,40 @@
+
+.h1_headding{
+    font-size: 50px;
+    font-weight: bold;
+     text-align: center;
+}
+.searchbar{
+    background-color:yellow;
+    border:5px;
+    border-radius:20px;
+    padding:20px;
+    font-size:20px    
+}
+.nav{
+    display:flex;
+    align-items:center;
+    justify-content: space-evenly
+
+}
+.table_nav{
+    display:flex;
+    margin:20px;
+    align-items:center;
+    justify-content: space-evenly;
+}
+.Prev{
+    background-color:yellow;
+   
+    border:5px;
+    border-radius:20px;
+    padding:20px;
+    font-size:20px 
+}
+.next{
+    background-color:yellow;
+    border:5px;
+    border-radius:20px;
+    padding:20px;
+    font-size:20px 
+}
